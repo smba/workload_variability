@@ -7,7 +7,8 @@
 ### HSQLDB
 
 ### Apache Derby
-* [List of configuration options](https://db.apache.org/derby/docs/10.8/ref/rrefjdbc10889.html)
+* [List of system-wide configuration options](https://db.apache.org/derby/docs/10.8/ref/crefproper22250.html)
+* [List of configuration options (JDBC)](https://db.apache.org/derby/docs/10.8/ref/rrefjdbc10889.html)
 ### TrinoDB
 ### Neo4j
 ### OrientDB
