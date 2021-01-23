@@ -5,7 +5,9 @@
 ### H2
 * [List of system-wide configuration options](https://www.h2database.com/javadoc/org/h2/engine/SysProperties.html)
 * [List of configuration options (JDBC)](http://www.h2database.com/html/features.html#database_url)
+
 ### HSQLDB (HyperSQL)
+* [List of configuration options (connection/HDBC)](http://www.hsqldb.org/doc/2.0/guide/dbproperties-chapt.html#dpc_db_operations)
 
 ### Apache Derby
 * [List of system-wide configuration options](https://db.apache.org/derby/docs/10.8/ref/crefproper22250.html)
