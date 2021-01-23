@@ -3,6 +3,7 @@
 ## Case Studies
 ### Density Converter
 ### H2
+* [List of system-wide configuration options](https://www.h2database.com/javadoc/org/h2/engine/SysProperties.html)
 * [List of configuration options (JDBC)](http://www.h2database.com/html/features.html#database_url)
 ### HSQLDB
 
